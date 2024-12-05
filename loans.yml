@@ -1,0 +1,11 @@
+
+build:
+    version: 1.0
+loans:
+    message: "From loans Dev file"
+    contact:
+        name: "Dev1"
+        email: dev@gmai.com
+    mobile:
+        - 9123834
+        - 9748535

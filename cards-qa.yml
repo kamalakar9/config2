@@ -1,0 +1,11 @@
+
+build:
+    version: 2.0
+cards:
+    message: "From cards QA file"
+    contact:
+        name: "QA1"
+        email: qa@gmai.com
+    mobile:
+        - 9123834
+        - 9748535 

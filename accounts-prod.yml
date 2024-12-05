@@ -1,0 +1,11 @@
+
+build:
+    version: 3.0
+accounts:
+    message: "From accounts prod file"
+    contact:
+        name: "Prod1"
+        email: prod@gmai.com
+    mobile:
+        - 9123834
+        - 9748535 

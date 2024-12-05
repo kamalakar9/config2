@@ -5,7 +5,7 @@ loans:
     message: "From loans QA file"
     contact:
         name: "QA1"
-        email: qa@gmai.com
+        email: "qa@gmai.com"
     mobile:
         - 9123834
         - 9748535 

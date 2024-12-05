@@ -5,7 +5,7 @@ accounts:
     message: "From accounts prod file"
     contact:
         name: "Prod1"
-        email: "prod@gmai.com"
+        email: "{cipher}5abec60419f4507b36b5a425af9375b640ed598f23dbdb7fbbfa4e3591671d7b"
     mobile:
         - 9123834
         - 9748535 

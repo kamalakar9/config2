@@ -2,7 +2,7 @@
 build:
     version: 1.0
 loans:
-    message: "From loans dev webhook1 file"
+    message: "From loans dev file"
     contact:
         name: "Dev1"
         email: "dev@gmai.com"

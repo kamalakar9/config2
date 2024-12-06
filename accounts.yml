@@ -2,7 +2,7 @@
 build:
     version: 1.0
 accounts:
-    message: "From accounts dev-webhook1000 file"
+    message: "From accounts dev-webhook10 file"
     contact:
         name: "Dev1"
         email: "dev@gmai.com"
